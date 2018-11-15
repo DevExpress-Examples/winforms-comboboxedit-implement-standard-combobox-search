@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[CustomComboBoxEdit.cs](./CS/dxSample/Custom Combo Box/CustomComboBoxEdit.cs) (VB: [CustomComboBoxEdit.vb](./VB/dxSample/Custom Combo Box/CustomComboBoxEdit.vb))**
+* [CustomRIComboBoxEdit.cs](./CS/dxSample/Custom Combo Box/CustomRIComboBoxEdit.cs) (VB: [CustomRIComboBoxEdit.vb](./VB/dxSample/Custom Combo Box/CustomRIComboBoxEdit.vb))
+* [Form1.cs](./CS/dxSample/Form1.cs)
+* [MainForm.cs](./CS/dxSample/MainForm.cs) (VB: [MainForm.vb](./VB/dxSample/MainForm.vb))
+* [Program.cs](./CS/dxSample/Program.cs) (VB: [Program.vb](./VB/dxSample/Program.vb))
+<!-- default file list end -->
 #  ComboBoxEdit - How to turn off incremental search and implement a standard ComboBox search
 
 
