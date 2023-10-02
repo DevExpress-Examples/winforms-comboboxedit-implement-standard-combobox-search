@@ -6,9 +6,9 @@
 
 #  WinForms ComboBoxEdit - Turn off incremental search and implement a standard ComboBox search
 
-The [WinForms ComboBoxEdit](https://docs.devexpress.com/WindowsForms/DevExpress.XtraEditors.ComboBoxEdit) uses incremental search for seach for items. This behavior is different from that of a [standard combobox](https://learn.microsoft.com/en-us/dotnet/api/system.windows.forms.combobox?view=windowsdesktop-7.0&redirectedfrom=MSDN). This example demonstrates how to customize the DevExpress `ComboBoxEdit` control to behave like a standard combobox.
+The [WinForms ComboBoxEdit](https://docs.devexpress.com/WindowsForms/DevExpress.XtraEditors.ComboBoxEdit) uses incremental search to find items. This behavior is different from that of a [standard combobox](https://learn.microsoft.com/en-us/dotnet/api/system.windows.forms.combobox?view=windowsdesktop-7.0&redirectedfrom=MSDN). This example demonstrates how to customize the DevExpress `ComboBoxEdit` control to behave like a standard combobox.
 
-The example creates a custom ComboBoxEdit and overrides the `FindItem` method and `AutoSearchText` property. Note, the [RepositoryItemButtonEdit.TextEditStyle](https://docs.devexpress.com/WindowsForms/DevExpress.XtraEditors.Repository.RepositoryItemButtonEdit.TextEditStyle) property should be set to `TextEditStyles.DisableTextEditor`.
+The example creates a custom ComboBoxEdit and overrides the `FindItem` method and `AutoSearchText` property. Note that the [RepositoryItemButtonEdit.TextEditStyle](https://docs.devexpress.com/WindowsForms/DevExpress.XtraEditors.Repository.RepositoryItemButtonEdit.TextEditStyle) property should be set to `TextEditStyles.DisableTextEditor`.
 
 
 ## Files to Review
